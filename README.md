@@ -4,9 +4,9 @@
 
 
 **Contents**
-1. [ Datasets ](#1)
-2. [ Dependencies  ](#2)
-3. [ Run  ](#3)
+1. Datasets
+2. Dependencies
+3. Run
 
 --------------
 
