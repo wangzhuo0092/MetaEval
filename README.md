@@ -1,8 +1,9 @@
 # *MetaEval*: Measuring the Discrimination of Benchmarks for Efficient LLM
 
-![Uploading framework.png…]()
+<img width="5610" height="2296" alt="framework" src="https://github.com/user-attachments/assets/e36f432d-6644-4776-8ae7-d0c8bd9f6647" />
 
-**Table of contents**
+
+**Contents**
 1. [ Datasets ](#1)
 2. [ Dependencies  ](#2)
 3. [ Run  ](#3)
@@ -32,7 +33,7 @@ threadpoolctl==3.3.0
 tqdm==4.66.2
 wheel==0.41.2
 
-**Run**
+## Run
 resp_download_helper.ipynb — (optional) organize and preprocess the raw response data
 model_mutidata.ipynb — (required) fit item discrimination parameters
 estimate_theta.ipynb / estimate_theta_nodiscrim.ipynb — estimate model abilities and make performance predictions
